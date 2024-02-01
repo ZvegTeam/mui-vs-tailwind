@@ -1,6 +1,6 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
 import { MaterialUI } from './MaterialUI';
-import { TailwindCSS } from './Tailwind';
+import { TailwindCSS } from './TailwindCSS';
 import { Header } from './components';
 
 function App() {

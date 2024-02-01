@@ -5,7 +5,7 @@ export const Header: FC = () => {
   return (
     <>
       <header className="main-header">
-        <h3>Tailwind CSS vs Material UI</h3>
+        <h3 className='header-title'>Tailwind CSS vs Material UI</h3>
         <nav className='nav'>
           <ul className='nav-list'>
             <li className='nav-list-item'>
