@@ -61,6 +61,11 @@ body {
   font-size: 18px;
 }
 
-.nav-list-item-link:hover {
+.nav-list-item-link > div:hover {
   opacity: 0.6;
+  background-color: grey;
+}
+
+.active-link {
+  background-color: darkgrey;
 }
