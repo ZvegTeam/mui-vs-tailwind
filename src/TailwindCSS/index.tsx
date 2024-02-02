@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { Button, InputField } from '../components';
+import { Button, InputField } from './components';
 
 export const TailwindCSS: FC = () => {
   return (
